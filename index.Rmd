@@ -12,7 +12,7 @@ output:
 Here is some content.
 
 Just so you know, my favorite allium is the onion on most days... others I really love shallots.
-
+ 
 To learn about, click [here](about.html).
 
 ## Some other fun stuff.
