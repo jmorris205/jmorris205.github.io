@@ -9,7 +9,7 @@ output:
 
 # Here are some plots:
 
-```{r, echo = F, warnings = F, messages = F}
+```{r, echo = F, warning = F, message = F}
 library(tidyverse)
 library(ggplot2)
 
