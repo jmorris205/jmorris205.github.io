@@ -22,8 +22,8 @@ df = data.frame(
 
 ggplot(df, aes(x = onion_count, y = happiness)) +
   geom_point() +
-  geom_smooth() +
-  labs(title = "Relationship Between Onion and Happiness", x = "Number of Onions", y = "Happiness") 
+  geom_smooth(se = F) +
+  labs(title = "Relationship Between Number of Onions and Happiness", x = "Number of Onions", y = "Happiness") 
 ```
 
 To go home, click [here](index.html).
