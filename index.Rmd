@@ -18,7 +18,7 @@ To learn about, click [here](about.html).
 ## Some other fun stuff.
 Here's a cool picture:
 
-<img src="images/image.png" style="width:75%">
+<img src="images/image.jpeg" style="width:75%">
 
 ## Plots.
 
