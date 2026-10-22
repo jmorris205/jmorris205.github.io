@@ -1,0 +1,16 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Plots"
+      href: plots.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<jsm2298@cumc.columbia.com>
+    - icon: fa-github fa-lg
+      href: https://github.com/jmorris205/jonathanskmorris.github.io
+output:
+  html_document:
+    theme: cerulean

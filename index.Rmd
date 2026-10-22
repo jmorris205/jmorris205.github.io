@@ -1,0 +1,25 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Jonathan's awesome website
+
+Here is some content.
+
+Just so you know, my favorite allium is the onion on most days... others I really love shallots.
+
+To learn about, click [here](about.html).
+
+## Some other fun stuff.
+Here's a cool picture:
+
+<img src="images/image.png" style="width:75%">
+
+## Plots.
+
+To see some plots, click here [here](plots.html).
